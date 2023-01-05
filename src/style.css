@@ -10,10 +10,10 @@
     }
 
     ::selection {
-        @apply bg-indigo-400 text-white;
+        @apply bg-primary text-white;
     }
 
     body {
-        @apply bg-gray-100;
+        @apply bg-primary min-h-screen;
     }
 }
